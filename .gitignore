@@ -1,0 +1,5 @@
+.vscode
+Api/obj
+Api/bin
+ApiJWT/obj
+ApiJWT/bin
